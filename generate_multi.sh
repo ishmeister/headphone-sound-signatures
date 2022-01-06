@@ -28,7 +28,7 @@ while read source_name; do
 
     while read target_name; do
         echo "  Target: '$target_name'"
-        bash generate_signature.sh "$source_name" "$target_name"
+        bash generate_eq.sh "$source_name" "$target_name"
     done <"$TARGETS_FILE"
     
 done <"$SOURCES_FILE"
