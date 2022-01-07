@@ -14,8 +14,6 @@ Audeze LCD-XC pre-2021
 Audio-Technica ATH-ADX5000
 Aurorus Borealis
 Beyerdynamic T1 2nd Generation
-Beyerdynamic T1 3rd Generation
-Beyerdynamic T5 3rd Generation
 Dan Clark Audio Aeon 2 Closed (perforated earpads)
 Dan Clark Audio Aeon 2 Closed
 Dan Clark Audio Aeon 2 Noire
@@ -38,8 +36,6 @@ Focal Elear
 Focal Elex
 Focal Radiance
 Focal Stellia
-Focal Utopia (Dekoni fenestrated Sheepskin Earpads)
-Focal Utopia (Dekoni sheepskin Earpads)
 Focal Utopia
 Fostex TH-X00 Ebony
 Fostex TH-X00 Mahogany
@@ -57,19 +53,13 @@ HIFIMAN HE6
 HIFIMAN HE6se
 HIFIMAN Jade II
 HIFIMAN Shangri-La
-HIFIMAN Sundara (2020 revised earpads)
-HIFIMAN Sundara (pre-2020 earpad revision)
-HIFIMAN Sundara
 HIFIMAN Susvara
-Koss ESP950
-Koss ESP95X
 Meze Empyrean (alcantara earpads)
 Meze Empyrean (leather earpads)
 Meze Empyrean (microfiber earpads)
 RAAL SR1a
 RAAL-requisite SR1a
 Rosson Audio Design RAD-0
-Sennheiser HD 800 S (Dekoni fenestrated sheepskin earpads)
 Sennheiser HD 800 S
 Sennheiser HD 800
 Sennheiser HD 8XX
@@ -98,9 +88,6 @@ Stax SR-L700 (blu-tac mod)
 Stax SR-L700
 Stax SR-Lambda Pro Classic
 Stax SR-Lambda Pro
-Verum One (ZMF Ori earpads)
-Verum One (leather earpads)
-Verum One
 Warwick Acoustics Aperio
 ZMF Atticus
 ZMF Eikon (Protein earpads)
