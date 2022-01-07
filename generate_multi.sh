@@ -29,6 +29,10 @@ while read source_name; do
     while read target_name; do
         echo "  Target: '$target_name'"
         bash generate_eq.sh "$source_name" "$target_name"
+        return_code=$?
+        if [ $return_code -ne 0 ]; then
+            echo "FAILED: $source_name to $target_name"
+        fi
     done <"$TARGETS_FILE"
     
 done <"$SOURCES_FILE"

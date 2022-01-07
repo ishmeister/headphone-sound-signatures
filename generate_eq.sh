@@ -14,6 +14,11 @@ RESULTS_DIR="./results"
 OUTPUT_DIR="$RESULTS_DIR/$SOURCE_NAME - $TARGET_NAME"
 COMPENSATION_FILE="$AUTOEQ_HOME/compensation/harman_over-ear_2018_wo_bass.csv"
 
+if [ "$SOURCE_NAME" == "$TARGET_NAME" ]; then
+    echo "Cannot EQ to same target: '$SOURCE_NAME' to '$TARGET_NAME'"
+    exit 1
+fi
+
 echo "Generating EQ from '$SOURCE_NAME' to '$TARGET_NAME'"
 
 if [ -d "$OUTPUT_DIR" ] 
